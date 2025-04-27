@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm [Vigneswaran S]!  
 
-<!--
-**VigneswaranVicky-S/VigneswaranVicky-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- 🎯 Focused on building a strong career in Automation Testing.
+- 🔍 Exploring advanced concepts in Selenium WebDriver with Python.
+- 🤝 Open to working on real-time testing projects and improving skills.
+- 📬 You can reach me at [info.vickz@gmail.com]
 
-Here are some ideas to get you started:
+## What I Enjoy:
+- Working with Selenium WebDriver  
+- Building Automation Scripts with Python
+- Learning Java basics for Selenium  
+- Practicing Manual Testing techniques  
+- Writing and Managing Test Cases  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Tech Toolbox:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
