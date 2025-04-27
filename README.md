@@ -19,4 +19,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ## Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/vigneswaran-s-0a6a001b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<https://www.linkedin.com/in/vigneswaran-s-0a6a001b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="LinkedIn Logo" width="30" height="30">
+</a>
