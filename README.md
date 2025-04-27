@@ -17,3 +17,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+## Connect with me:
+[![LinkedIn](https://www.linkedin.com/in/vigneswaran-s-0a6a001b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
